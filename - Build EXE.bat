@@ -1,7 +1,7 @@
 
 :: =================================================================================
 :: This turns the "scripts\convert_s1_hive.py" script into an EXE
-:: Run this batch file, built EXE will be in the "DIST" folder below
+:: Run this batch file, built EXE will be in the "DIST" folder
 :: =================================================================================
 
 @echo off

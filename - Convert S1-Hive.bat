@@ -1,7 +1,7 @@
 
 :: =================================================================================
 :: Place Synth1 bank folders containing .sy1 presets here: 	input\synth1\
-:: Run this batch file, converted files go here: 			output\Converted_Presets\
+:: Run this batch file, converted files go here: 			output\
 :: =================================================================================
 
 @echo off

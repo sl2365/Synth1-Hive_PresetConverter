@@ -1,7 +1,7 @@
 
 :: =================================================================================
-:: Place INIT.h2p preset here: 						ROOT\
-:: Run this batch file, Hive-Report.ini goes here: 	ROOT\
+:: Place Hive-INIT.h2p preset here: 					ROOT\
+:: Run this batch file, Hive-Report.ini goes here: 		ROOT\
 :: =================================================================================
 
 @echo off
