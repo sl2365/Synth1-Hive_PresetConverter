@@ -1,4 +1,8 @@
 # Synth1 to Hive preset converter
+Essentially, all you need is one file and run it from the command line. Or two files which makes it easier, and run the batch file.
+Download tehse two files:
+- convert_s1_hive.py
+- - Convert S1-Hive.bat
 
 To convert the script to an exe run this command in cmdprompt:
 "D:\path\to\python.exe" -m PyInstaller --onefile --distpath "D:\path\to\- Build EXE.bat" --workpath "D:\path\to\build" --specpath "D:\path\to\build" "D:\path\to\scripts\convert_s1_hive.py"
