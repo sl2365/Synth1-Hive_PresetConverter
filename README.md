@@ -24,29 +24,29 @@ For the conversion to work correctly, you MUST update all Synth1 presets to Ver=
 
 # Synth1 Bank/Preset Updater:
 
-[First-time setup]
+## First-time setup
 Open "- RUN_synth1_resave_bank.bat" and edit the path to AutoHotkey64.exe
 
-; How to use it...
-; Step 1
+### How to use it...
+### Step 1
 Launch = RUN_synth1_resave_bank.bat
 This starts the AHK script.
 
-; Step 2
+### Step 2
 Open Synth1 and make sure:
 - the window is visible
 - the bank is loaded manually
 - patch 1 is selected manually
 
-; Step 3
+### Step 3
 Capture the three button positions:
 - Press F1 while hovering mouse over write,
 - Press F2 while hovering mouse over Save,
 - Press F3 while hovering mouse over next patch,
 Each one should show a tiny tooltip saying it captured the position.
 
-[What to expect while using it]
-; When you press F5:
+## What to expect while using it:
+When you press F5:
 - A confirmation box appears
 - after you press OK, the mouse will move by itself
 - it will click:
@@ -60,7 +60,7 @@ Each one should show a tiny tooltip saying it captured the position.
 - then it shows:
 	Batch resave complete.
 
-[Important while it is running]
+## Important while it is running:
 ; Do not:
 - move the Synth1 window
 - click the mouse
@@ -69,7 +69,7 @@ Each one should show a tiny tooltip saying it captured the position.
 
 Just let it finish.
 
-[How to stop it]
+## How to stop it:
 Press [Esc]
 
 That exits the script.
