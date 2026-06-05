@@ -61,7 +61,7 @@ When you press F5:
 	Batch resave complete.
 
 ## Important while it is running:
-; Do not:
+Do not:
 - move the Synth1 window
 - click the mouse
 - type on keyboard
