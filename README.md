@@ -50,15 +50,15 @@ When you press F5:
 - A confirmation box appears
 - after you press OK, the mouse will move by itself
 - it will click:
-    write
-    save
-    next
+    - write
+    - save
+    - next
 - it will repeat for 128 patches
 - a small tooltip will show progress like:
-	Processed patch 1 / 128
-	Processed patch 2 / 128
+	- Processed patch 1 / 128
+	- Processed patch 2 / 128
 - then it shows:
-	Batch resave complete.
+	- Batch resave complete.
 
 ## Important while it is running:
 Do not:
